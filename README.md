@@ -20,6 +20,11 @@ It can optionally translate these tweets to a number of languages using the Micr
 1. If you entered the required subscription key for the translation service, you can try to activate it by typing `//translate on`.
 
 If you want to deploy this demo to Azure App Service and register it with the Bot Framework, you can use the steps explained in the official [Bot Framework Getting Started Guide](https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html).
+Or, get a head start via this button:
+
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
 
 ## Features used
 
